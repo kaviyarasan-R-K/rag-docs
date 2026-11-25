@@ -1,0 +1,12 @@
+[
+  {"question": "How many international centuries did Sachin Tendulkar score in total?", "must_contain": ["100"], "source": "cricket_players_rag_test.md"},
+  {"question": "How many Test centuries did Sachin Tendulkar score?", "must_contain": ["51"], "source": "cricket_players_rag_test.md"},
+  {"question": "How many ODI centuries did Sachin Tendulkar score?", "must_contain": ["49"], "source": "cricket_players_rag_test.md"},
+  {"question": "Which ICC trophies did MS Dhoni win as India's captain?", "must_contain": ["2007", "2011", "2013"], "source": "cricket_players_rag_test.md"},
+  {"question": "What is the highest individual score in ODI cricket mentioned in the document?", "must_contain": ["264"], "source": "cricket_players_rag_test.md"},
+  {"question": "Who scored the highest individual score of 264 in ODI cricket?", "must_contain": ["Rohit Sharma"], "source": "cricket_players_rag_test.md"},
+  {"question": "What primary bowling style does Ravindra Jadeja bowl?", "must_contain": ["orthodox"], "source": "cricket_players_rag_test.md"},
+  {"question": "Which Indian fast bowler is known for an unorthodox action and yorker accuracy?", "must_contain": ["Jasprit Bumrah"], "source": "cricket_players_rag_test.md"},
+  {"question": "How many ODI centuries did Sachin Tendulkar score compared to his Test centuries?", "must_contain": ["49", "51"], "source": "cricket_players_rag_test.md"},
+  {"question": "What was Lionel Messi's batting average in the 2011 Cricket World Cup?", "must_contain": ["couldn't find"], "source": null}
+]

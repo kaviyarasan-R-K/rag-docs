@@ -1,0 +1,28 @@
+.env/
+Secrets
+.env
+.env.*
+tests/
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# macOS / IDE
+.DS_Store
+.vscode/
+.idea/
+# Secrets & Cache
+.env
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.egg-info/
+.ragdocs/
